@@ -14,7 +14,18 @@
 * 둘
 1. 하나
 2. 둘
-
+---
 https://pixabay.com/ 같은 곳에서 이미지 복사해서 붙여넣기만 하면 아래 처럼 적용 가능
 
 ![image](https://github.com/ooooojjjjj/ReadMeTest/assets/134263355/52b57e76-d8ad-4036-a09c-5d6a6970342d)
+
+---
+코드를 쓰고싶습니까 휴먼? 아래처럼 하십시오.<br/>
+```cpp
+#include <iostream>
+
+int main()
+{
+    return 0;
+}
+```
